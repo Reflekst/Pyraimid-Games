@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - ship
+  - SpawnPoint
+  - Rooms
+  - Floor
+  - Room
+  - Item
+  - Key
+  - Chest
+  - Door
   layers:
   - Default
   - TransparentFX
@@ -14,7 +23,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - FogOfWarLayer
   - 
   - 
   - 
